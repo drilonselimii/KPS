@@ -1,0 +1,198 @@
+#titulli{
+font-size: 32px;
+margin-left: 1.5%;
+padding: 3px;
+color: white;
+font-family: "Comic Sans MS";
+}
+
+#forma {
+text-align: right;
+margin-top: -5.3%; 
+margin-right: 2%;
+color: white;	
+}
+
+.logini{
+width: 15.5%;
+height: 4.2%;
+margin: 0.3%;
+border-radius: 3px;
+}
+.logini::placeholder{
+color: #7D1935;
+}
+.logini,textarea{
+background-color: lightgray;
+}
+#kycu{
+size: 150%;
+font-weight: bold;
+font-size: 18px;
+padding-left: 1%;
+padding-right: 1.5%;
+border-radius: 2px;
+margin: 0.3%;
+background-color: lightgray;
+border-width: 0px;
+height: 4%;
+color: #7D1935;
+}
+
+#kycu:hover{
+background-color: #7D1935;
+cursor: pointer;
+color: white;
+transition-duration: 0.5s;
+}
+
+#forma2{
+	margin-top: -30%;
+	margin-right: 14%;
+	float: right;
+	text-align: center;
+	padding: 5%;
+	width: 15%;
+	height: 50%;
+	border-radius: 10%;
+
+}
+.textet{
+	width: 180%;
+	height: 11%;
+	font-size: 110%;
+	border-radius: 2px;
+    padding: 3%;
+        
+ 
+}
+.textet, textarea{
+background-color: lightgray;
+
+}
+.textet::placeholder{
+color: #7D1935;
+}
+#submiti{
+margin-top: 8%;
+font-size: 20px;
+border-radius: 2px;
+padding: 7px; 
+background-color: lightgray;
+font-weight: bold;
+width: 180%;
+border-width: 0px;
+color: #7D1935;
+
+}
+#submiti:hover{
+background-color: #7D1935;
+cursor: pointer;
+color: white;
+transition-duration: 0.5s;
+}
+#iko{
+margin-top: 5%;
+margin-left: 22%;
+}
+
+#parag{
+font-size: 22px;
+color: white;
+margin-top: 2%;
+margin-left: 6%;}
+body{
+background-image: url('bg.jpg');
+background-attachment: fixed;
+background-size: 100%;
+background-position: bottom;
+}
+hr{
+height: 7px;
+width: 96%;
+border-radius: 5px;
+background-color: #7D1935;
+color: #7D1935;
+border-width: 0px;
+}
+#knl{
+margin-top: -7%;
+position: absolute;
+font-size: 240%;
+color: white;
+font-family: "Comic Sans MS";
+}
+#knl1{
+margin-top: -3.5%;
+position: absolute;
+color: white;
+font-family: "Comic Sans MS";
+	
+}
+#ditelindja{
+	color: white;
+	font-size: 150%;
+	text-align: left;
+}
+#data{
+	margin-top: -4%;
+	height: 11%;
+	width: 90%;
+	float: left;
+	border-radius: 2px;
+	font-size:110%;
+	padding: 3%;
+}
+#data, textarea{
+background-color: lightgray;
+
+}
+.alert {
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  padding: 4px 20px 4px 20px;
+  font-size: 13px;
+  line-height: 20px;
+  margin-bottom: 20px;
+  text-shadow: none;
+  position: relative;
+  background-color: #272e3b;
+  color: rgba(255, 255, 255, 0.7);
+  border: 1px solid #000;
+  box-shadow: 0 0 0 1px #363d49 inset, 0 5px 10px rgba(0, 0, 0, 0.75);
+}
+.alert-error {
+  width: 180%;
+  border-radius: 2px;
+  color: #f00;
+  background-color: #360e10;
+  box-shadow: 0 0 0 1px #551e21 inset, 0 5px 10px rgba(0, 0, 0, 0.75);
+}
+.alert:empty{
+    display: none;
+}
+.alert-success {
+  width: 50%;
+  height: 8%;
+  font-size: 200%;
+  text-align: center;
+  padding: 1%;
+  margin: auto;
+  margin-top: 8%;
+  border-radius: 2px;
+  color: #21ec0c;
+  background-color: #15360e;
+  box-shadow: 0 0 0 1px #2a551e inset, 0 5px 10px rgba(0, 0, 0, 0.75);
+}	
+#radiobtn{
+	color: white;
+	float: left;
+	font-size: 120%;
+}
+#miresevini
+{
+	margin-top: 10%;
+	font-size: 380%;
+	text-align: center;
+	color: white;
+}

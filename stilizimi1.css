@@ -1,0 +1,120 @@
+body{
+	background-image: url('bg1.jpg');
+	background-attachment: fixed;
+	background-size: 100%;
+	
+}
+#skorniza
+{
+	color: white;
+	text-shadow: 2px 1px red;
+	font-size: 190%;
+	background-color: black;
+	width: 25%;
+	height: 98%;
+	opacity: 0.7;
+	border-radius: 2px;
+	position: absolute;
+}
+#studenti{
+	position: absolute;
+	margin-top: 0%;
+	margin-left: 0.5%;
+}
+#id{
+	margin-left: 55%;
+	margin-top : 0.5%;
+}
+#emri{
+	margin-top:90%;
+	float :left;
+	margin-left: 18%;
+}
+#mbiemri{
+	margin-top:90%;
+	float: left;
+	margin-left: 28%;
+	
+}
+#email{
+	text-align: center;
+}
+#ditelindja{
+	text-align: center;
+}
+#gjinia{
+	text-align: center;
+}
+#njoftimet{
+	background-color: black;
+	opacity: 0.8;
+	width: 40%;
+	height: 80%;
+	border-radius: 2px;
+    margin-top: 5%;
+	margin-left: 30%;
+	float:left;
+}
+#tjerat{
+	color: white;
+	
+	font-size: 190%;
+	background-color: black;
+	width: 25%;
+	height: 100%;
+	opacity: 0.7;
+	border-radius: 2px;
+
+	float:right;
+	
+}
+#terejat{
+	color: white;
+	text-align: center;
+	font-size: 200%;
+}
+#dalja{
+	width: 30%;
+	height: 4%;
+	border-radius: 2px;
+	background-color: white;
+	color: #7D1935;
+	border-width: 0;
+	float: right;
+	margin-top: 3%;
+	margin-right: 3%;
+	font-size: 60%;
+	font-weight: bold;
+	
+}
+#dalja:hover{
+background-color: #7D1935;
+cursor: pointer;
+color: white;
+transition-duration: 0.5s;
+}
+#content
+{
+	width: 100%;
+	position: absolute;
+	margin-left: 75%;
+	margin-top: 35%;
+}
+#gamephp
+{
+	height: 15%;
+	margin-top: -12%;
+
+}
+#gamephp::hover{
+	transition-duration: 0.5s;
+	cursor: pointer;
+}
+#ikona
+{
+	margin-top: 10%;
+	width: 50%;
+	height: 30%;
+	position: absolute;
+	margin-left: 24%;
+}
